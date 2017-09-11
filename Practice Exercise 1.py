@@ -80,6 +80,7 @@ achternaam = " Feijter"
 
 print("\n")
 
+# waarom tussen haakjes?
 mijnnaam = (voornaam + tussenvoegsel + achternaam)
 print(mijnnaam)
 
